@@ -1,4 +1,4 @@
-## Running React on Repl.it
+## Running the Kadenai Guessing Game from Replit
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
